@@ -1,2 +1,0 @@
-# REDENI
-"# redeni32" 
